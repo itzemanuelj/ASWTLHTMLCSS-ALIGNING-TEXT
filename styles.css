@@ -1,0 +1,52 @@
+p {
+    text-align: center;
+}
+
+p {
+    text-align: left;
+}
+
+h1, p {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
+
+p {
+    text-align: justify;
+}
+/*** even left and right edges. */  
+
+h3.normal {
+    text-align: left;
+}
+
+p.main {
+    text-align: center;
+}
+
+p {
+    text-align: right;
+}
+
+p.main-text {
+    text-align: left;
+}
+
+h4.normal {
+    font-size: .85em;
+    text-align: center;
+}
+
+p {
+    letter-spacing: 1.3em;
+    text-align: justify;
+}
+
+/*** Create a class of h3 headings named "normal" that explicitly gives them default alignment. */
+
+h3.normal {
+    text-align: left; 
+}
